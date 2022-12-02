@@ -6,7 +6,7 @@ from .img_resizer import image_resize
 
 # Load the pretrained model
 from tensorflow.keras.models import load_model
-model = load_model('final_codebase/models/model_cnn.h5')
+model = load_model('final_codebase/models/model_cnn4.h5')
 
 class_names = ['add', 'divide', 'eight', 'five', 'four', 'multiply', 'nine', 
                'one', 'seven', 'six', 'subtract', 'three', 'two', 'zero']
