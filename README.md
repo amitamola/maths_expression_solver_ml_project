@@ -1,2 +1,3 @@
-# maths_expression_solver_ml_project
+# Mathematical Expression Solver
+## Machine Learning Project
 This is part of our Machine Learning Project at Trinity College Dublin
