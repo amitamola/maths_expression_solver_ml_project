@@ -19,6 +19,10 @@ Folder description:
 
 Dataset is also hosted at: https://www.kaggle.com/datasets/amitamola/mathematics-symbols-data
 
+<p align="center">
+  <img src="https://github.com/amitamola/maths_expression_solver_ml_project/blob/main/kaggle_image.png">
+</p>
+
 One can use the dataset and work with Kaggle Notebooks. Various helper codes and different notebooks using the dataset are available at- https://www.kaggle.com/datasets/amitamola/mathematics-symbols-data/code
 
 -------------
