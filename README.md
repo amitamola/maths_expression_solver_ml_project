@@ -18,7 +18,7 @@ Folder description:
 - **final_symbols_with_split** - data for SVM and Logistic model training
 - **final_symbols_split_ttv** - data for CNN model with train, test and validation(ttv) split
 
-Dataset is also hosted at: 
+Dataset is also hosted at: https://www.kaggle.com/datasets/amitamola/mathematics-symbols-data
 -------------
 
 ## <ins>Training phase</ins>
