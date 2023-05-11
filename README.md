@@ -4,7 +4,7 @@
 This repository is part of our Machine Learning Project at Trinity College Dublin
 
 <p align="center">
-  <img src="https://github.com/amitamola/maths_expression_solver_ml_project/tree/main/solved.png">
+  <img src="https://github.com/amitamola/maths_expression_solver_ml_project/blob/main/solved.png">
 </p>
 
 --
