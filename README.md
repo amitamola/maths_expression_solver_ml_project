@@ -7,7 +7,6 @@ This repository is part of our Machine Learning Project at Trinity College Dubli
   <img src="https://github.com/amitamola/maths_expression_solver_ml_project/blob/main/solved.png">
 </p>
 
---
 **NOTE - Use the requirements.txt file to install the necessary libraries**
 
 ## <ins>Dataset</ins> 
@@ -19,6 +18,9 @@ Folder description:
 - **final_symbols_split_ttv** - data for CNN model with train, test and validation(ttv) split
 
 Dataset is also hosted at: https://www.kaggle.com/datasets/amitamola/mathematics-symbols-data
+
+One can use the dataset and work with Kaggle Notebooks. Various helper codes and different notebooks using the dataset are available at- https://www.kaggle.com/datasets/amitamola/mathematics-symbols-data/code
+
 -------------
 
 ## <ins>Training phase</ins>
