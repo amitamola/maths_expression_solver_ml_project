@@ -2,6 +2,11 @@
 # Mathematical Expression Solver
 ## Machine Learning Project - Group 73 
 This repository is part of our Machine Learning Project at Trinity College Dublin
+
+<p align="center">
+  <img src="https://github.com/amitamola/maths_expression_solver_ml_project/tree/main/solved.png">
+</p>
+
 --
 **NOTE - Use the requirements.txt file to install the necessary libraries**
 
@@ -12,6 +17,8 @@ Folder description:
 - **data related work** - raw data from data collection from each member along with captioning and bounding box annotation jsons. [JSON to CSV.ipynb](https://github.com/amitamola/maths_expression_solver_ml_project/blob/main/JSON%20to%20CSV.ipynb "JSON to CSV.ipynb") can be used to convert JSONs to CSV format to be used later again.
 - **final_symbols_with_split** - data for SVM and Logistic model training
 - **final_symbols_split_ttv** - data for CNN model with train, test and validation(ttv) split
+
+Dataset is also hosted at: 
 -------------
 
 ## <ins>Training phase</ins>
