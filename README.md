@@ -1,5 +1,5 @@
 
-# Mathematical Expression Solver - [Final Report](https://drive.google.com/file/d/1tMMmXaycC6wd8I7GHORrXifm-LjHN6Zz/view?usp=sharing)
+# Mathematical Expression Solver - [Final Report](https://drive.google.com/file/d/1XQ1igrHBZFK9o3WIZjS66LsOjETV7UF7/view?usp=sharing)
 
 This repository is part of our Machine Learning Project at Trinity College Dublin
 
@@ -10,14 +10,7 @@ This repository is part of our Machine Learning Project at Trinity College Dubli
 **NOTE - Use the requirements.txt file to install the necessary libraries**
 
 ## <ins>Dataset</ins> 
-The dataset for re-training our models is available at https://drive.google.com/drive/folders/14RE3JyYX-pYkvfboRQ_xTXG99wckY2Iq?usp=share_link
-
-Folder description:
-- **data related work** - raw data from data collection from each member along with captioning and bounding box annotation jsons. [JSON to CSV.ipynb](https://github.com/amitamola/maths_expression_solver_ml_project/blob/main/JSON%20to%20CSV.ipynb "JSON to CSV.ipynb") can be used to convert JSONs to CSV format to be used later again.
-- **final_symbols_with_split** - data for SVM and Logistic model training
-- **final_symbols_split_ttv** - data for CNN model with train, test and validation(ttv) split
-
-Dataset is also hosted at: https://www.kaggle.com/datasets/amitamola/mathematics-symbols-data
+Dataset is hosted at: https://www.kaggle.com/datasets/amitamola/mathematics-symbols-data
 
 <p align="center">
   <img src="https://github.com/amitamola/maths_expression_solver_ml_project/blob/main/kaggle_image.png">
